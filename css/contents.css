@@ -1,0 +1,133 @@
+body {
+	background-color:#ffffff;
+    height: 100%;
+	width:100%;
+}
+/*フォント*/
+.clsFontGothic{
+	font-family:"ＭＳ Ｐゴシック";
+	text-decoration: none;
+}
+.clsFontFranklinGothic{
+	font-family:"Franklin Gothic Medium";
+	text-decoration: none;
+}
+.clsFont15{
+	font-size:15px;
+}
+.clsFont13{
+	font-size:13px;
+}
+.clsMarginTop10{
+	margin-top:10px;
+}
+.clsMarginTop50{
+	margin-top:50px;
+}
+.clsMarginBtm20{
+	margin-bottom:20px;
+}
+.clsMarginLeft40{
+	margin-left:40px;
+}
+
+/**************/
+/*トップページ*/
+/**************/
+#divMain{
+	margin:auto;
+	width:960px;
+}
+#divTitle{
+	height:640px;
+	width:960px;
+}
+#divImgTitle{
+	width:340px;
+	height:102px;
+	padding-top:246px;
+}
+#divNav{
+	height:160px;
+	width:160px;
+	float:left;
+	height:100%;
+}
+hr{
+	width:613px;
+	border:solid 1px #cccccc;
+}
+#divAbout{
+	float:right;
+	/*margin-left:348px;*/
+	width:613px;
+}
+#divAboutDtl{
+	margin-left:40px;
+}
+#phpLogo{
+	float:left;
+}
+#phpId{
+	float:right;
+	padding-top:3px;
+}
+#divSkill{
+	float:right;
+	/*margin-left:348px;*/
+	margin-top:50px;
+	width:613px;
+}
+#divSkillDtl{
+	margin-left:40px;
+}
+#divWorks{
+	float:left;
+	margin-left:348px;
+	margin-top:50px;
+	width:613px;
+
+}
+#divWorksDtlImg1{
+	width:439px;
+	margin:auto;
+}
+#divWorksDtlImg2{
+	width:440px;
+	margin:auto;
+}
+#divContact{
+	float:left;
+	height:300px;
+	margin-left:348px;
+	margin-top:50px;
+	width:613px;
+}
+#divContactDtl{
+	margin-left:40px;
+}
+#divFooter{
+	height:300px;
+}
+
+th{
+	font-family:"ＭＳ Ｐゴシック";
+	text-decoration: none;
+	font-size:13px;
+	vertical-align:top;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	white-space:nowrap;
+	font-weight:bold;
+}
+td{
+	font-family:"ＭＳ Ｐゴシック";
+	text-decoration: none;
+	font-size:12px;
+	padding: 5px 0px 5px 15px;
+	line-height: 150%;
+}
+.clsBtnTop{
+	margin-top:50px;
+	float:right;
+}
